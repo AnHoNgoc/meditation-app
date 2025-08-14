@@ -1,4 +1,4 @@
-# medidation_app
+# meditation_app
 
 A new Flutter project.
 
